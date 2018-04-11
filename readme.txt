@@ -1,2 +1,3 @@
 hallo git!
-git is free sofeware.
+git is free software.
+i like git;
